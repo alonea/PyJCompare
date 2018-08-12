@@ -5,7 +5,7 @@
 ### Requirements
 * Python 3.3 and up
 
-`$ pip install foobar`
+`$ pip install jsondiff`
 
 `$ git clone `
 
